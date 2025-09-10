@@ -11,6 +11,6 @@ It supports basic arithmetic operations like addition, subtraction, multiplicati
 - Error handling for invalid expressions
 
 ## 🚀 Live Demo
-[Click here to try the calculator](https://yourusername.github.io/calculator-project/)
+[Click here to try the calculator]([https://yourusername.github.io/calculator-project/](http://127.0.0.1:3000/index.html))
 
 ## 📂 Project Structure
