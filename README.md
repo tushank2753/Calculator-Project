@@ -14,6 +14,8 @@ It supports basic arithmetic operations like addition, subtraction, multiplicati
 [Click here to try the calculator] (http://127.0.0.1:3000/index.html)
 
 ## 📂 Project Structure
+
+```bash
 Calculator/
 ├── index.html
 ├── style.css
