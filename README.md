@@ -10,9 +10,6 @@ It supports basic arithmetic operations like addition, subtraction, multiplicati
 - Keyboard-friendly
 - Error handling for invalid expressions
 
-## 🚀 Live Demo
-[Click here to try the calculator] (http://127.0.0.1:3002/index.html)
-
 ## 📂 Project Structure
 
 ```bash
